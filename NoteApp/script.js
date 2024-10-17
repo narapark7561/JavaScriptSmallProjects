@@ -34,5 +34,3 @@ notesContainer.addEventListener("click", (e) => {
     });
   }
 });
-
-docu;
